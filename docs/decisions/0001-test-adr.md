@@ -14,6 +14,7 @@ ttest12
 
 * 123
 * 24
+* 67
 
 ## Decision Outcome
 
